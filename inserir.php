@@ -1,5 +1,5 @@
 <?php
-
+echo"123";
 ?>
 <form name="dadosPessoa" action="conexao.php" method="POST">
     <table border="1">
